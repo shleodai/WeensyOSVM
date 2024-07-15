@@ -1,7 +1,7 @@
-WEENSYOS
+WEENSYOSVM
 ========
 
-Type `make run` to run our OS using the QEMU emulator. We expect this
+Type `make run` to run the OS using the QEMU emulator. We expect this
 to work only on Linux hosts (including Linux VMs). If you have problems, check
 out Troubleshooting below.
 
